@@ -31,8 +31,9 @@ Onedrive Directory Index
 
 ## 安装运行
 **请参考downwa的安装教程**  
+（downwa删库跑路了）
 <img width="658" alt="image" src="https://raw.githubusercontent.com/donwa/oneindex/files/images/install.gif">  
-[或者这个](https://steven53.top/web/251/)  
+[或者这个](https://steven53.top/web/251.html)  
 
 ## 必要配置
 由于只改了filecache，缓存方式务必选择filecache。  
