@@ -30,11 +30,13 @@ Onedrive Directory Index
 防止加密文件夹子文件夹访问绕过。  
 
 ## 安装运行
-**请参考downwa的安装教程**  
-（downwa删库跑路了）
-<img width="658" alt="image" src="https://raw.githubusercontent.com/donwa/oneindex/files/images/install.gif">  
 [或者这个](https://steven53.top/web/251.html)  
-
+请参考downwa的安装教程  
+<img width="658" alt="image" src="https://raw.githubusercontent.com/donwa/oneindex/files/images/install.gif">  
+  
+由于downwa删库跑路了，我就自己搭建了绑定重定向页面，重定向链接为：
+https://steven53.top/oneindex  
+  
 ## 必要配置
 由于只改了filecache，缓存方式务必选择filecache。  
 由于缓存自动更新，请修改缓存过期时间为无穷大，比如233333333。  
