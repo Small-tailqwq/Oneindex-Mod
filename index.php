@@ -28,7 +28,7 @@ function proxyurl($url)
 }
 //------------------------------------------------
 
-if ($_COOKIE['admin'] == md5(config('password').config('refresh_token')))
+if ($_COOKIE['admin'] == md5(config('password').config('refresh_token'))||(is_callable(isadmin)&&isadmin($USER)))
 	$ADMIN=true;
 
 $show = config('show');
