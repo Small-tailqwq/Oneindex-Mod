@@ -1,3 +1,13 @@
+fork一下以后搭建更加方便，会在原有基础上加上个人的修改，原版请[点我](https://github.com/steven52880/Oneindex-Mod)。
+- 原重定向链接已经404，安装前请先修改`controller/AdminController.php`中第187行的url为个人下载站的url。  
+  - 比如我的下载站是od.hayasa.xyz，那么此处就该填`htps://od.hayasa.xyz`。请务必使用https。  
+- 
+
+
+> 以下为fork前原readme：
+
+---
+
 # OneIndex-MOD  
 Onedrive Directory Index  
 改动自downwa提供的Oneindex，此为自用改动版本。  
